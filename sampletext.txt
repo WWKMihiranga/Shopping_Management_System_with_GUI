@@ -1,0 +1,4 @@
+Electronics : ,A099,Smart Phone,98,60000.0,Nokia,12
+Electronics : ,A305,Fan,49,25000.0,Inovax,20
+Clothing : ,B178,Shirts,3,3500.0,5.0,Red
+Clothing : ,B990,Trousers,1,7500.0,7.0,Blue
